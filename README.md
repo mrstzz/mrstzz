@@ -8,6 +8,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/matheusmontovaneli)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://twitch.tv/mrst11)
 
+<img align="right" alt="Code Girl image" src="./young-boy-coding.png"  width="300px"/>
+
 - Software Engineer Student
 - Passionate about web development ❤
 - Always thirst for learning, knowledge and experience ✨
